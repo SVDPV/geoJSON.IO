@@ -1,0 +1,16 @@
+//View-Only Overrides
+.file-bar {
+  display:none !important;
+}
+div.right, .right .pane,  .CodeMirror, .sidebar-handle {
+  display:none !important;
+}
+.mapboxgl-ctrl-group.mapboxgl-ctrl {
+  display:none !important;
+}
+#map {
+  background-color: #004a99c4 !important;
+}
+.mapboxgl-popup {
+  display:none !important;
+}
